@@ -2,8 +2,9 @@
 Changed the tools of catand site.
 Changes from library to framework.
 Decided to use *VueJs*, because SFC.
-React,jQuery and bootstrap were making the website more complex to handle.
+React, jQuery and bootstrap were making the website more complex to handle.
 SFC made it easier to handle complexity of files and with their expansions.
+### ** Original site is private, that is just a template **
 
 
 ## Recommended IDE Setup
